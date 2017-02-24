@@ -1,2 +1,5 @@
 # Axa_Challenge
-Repository for examination purposes
+
+## Cas d'étude pour Axa Graduate Program
+
+**Objectif:** Estimer/Prédire le Bénéfice Net Annuel
