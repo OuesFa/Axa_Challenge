@@ -86,7 +86,7 @@ X,y,T=simple_split(data_raw01.copy())
                                   
                                   
 #Submit
-path='model/Final submit/'   
+path='../model/test/'   
 def write_to_file(X_prod,y_pred,name_file,path) :
     if not os.path.exists(path):
         os.makedirs(path)
